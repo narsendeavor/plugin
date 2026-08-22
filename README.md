@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="YOUR_IMAGE_URL_HERE" alt="NARAKU • TOOLBOX Preview" width="100%"/>
+  <img src="https://imgbs.com/uploads/preview-plugin-d9fa8217.png" alt="NARAKU • TOOLBOX Preview" width="100%"/>
 
   # NARAKU • TOOLBOX
 
