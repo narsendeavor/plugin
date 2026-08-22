@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://imgbs.com/uploads/preview-plugin-d9fa8217.png" alt="NARAKU • TOOLBOX Preview" width="100%"/>
 
-  # NARAKU • TOOLBOX
+  # NARS'S ENDEAVOR
 
   ![Roblox Studio Plugin](https://img.shields.io/badge/Roblox-Studio%20Plugin-blue?style=for-the-badge&logo=roblox)
   ![Lua](https://img.shields.io/badge/Language-Lua-000080?style=for-the-badge&logo=lua)
