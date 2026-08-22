@@ -12,7 +12,7 @@
 
 ---
 
-## Features
+## FEATURES
 
 - <img src="https://api.iconify.design/lucide:shopping-bag.svg?color=%23ffffff" width="16" height="16"/> **Toolbox Store**: Direct in-studio search and instant injection for Models, Decals, and Audio.
 - <img src="https://api.iconify.design/lucide:compass.svg?color=%23ffffff" width="16" height="16"/> **Archimedes Tools**: Precision axis transformation and custom angle controls for seamless curve creation.
@@ -21,7 +21,7 @@
 
 ---
 
-## Execution
+## EXECUTING
 
 Run the loader script in your execution environment:
 
