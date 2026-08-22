@@ -14,7 +14,7 @@
 
 ## FEATURES
 
-- <img src="https://api.iconify.design/lucide:shopping-bag.svg?color=%23ffffff" width="16" height="16"/> **Toolbox Store**: Direct in-studio search and instant injection for Models, Decals, and Audio.
+- <img src="https://api.iconify.design/lucide:shopping-bag.svg?color=%23ffffff" width="16" height="16"/> **Toolbox Store**: Direct in-studio search and instant injection for Models, Decals, Audio, and Plugin.
 - <img src="https://api.iconify.design/lucide:compass.svg?color=%23ffffff" width="16" height="16"/> **Archimedes Tools**: Precision axis transformation and custom angle controls for seamless curve creation.
 - <img src="https://api.iconify.design/lucide:music.svg?color=%23ffffff" width="16" height="16"/> **Audio Player**: Built-in audio player with real-time controls for rapid asset testing.
 - <img src="https://api.iconify.design/lucide:wrench.svg?color=%23ffffff" width="16" height="16"/> **Utility Suite**: Integrated developer shortcuts featuring Terrain tools, Asset Importer, Fly GUI, Dex++, and Infinity Yield.
