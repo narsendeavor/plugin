@@ -7,21 +7,23 @@
   ![Lua](https://img.shields.io/badge/Language-Lua-000080?style=for-the-badge&logo=lua)
   ![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
 
-  An all-in-one Roblox Studio plugin and toolkit provider to accelerate development workflows.
+  An all-in-one Roblox Studio plugin and utility suite engineered to streamline development workflows.
 </div>
 
 ---
 
 ## Features
 
-- <img src="https://api.iconify.design/lucide:shopping-bag.svg?color=%23ffffff" width="16" height="16"/> **Toolbox Store**: Direct search and asset injection for Models, Decals, and Audio.
-- <img src="https://api.iconify.design/lucide:compass.svg?color=%23ffffff" width="16" height="16"/> **Archimedes Tools**: Precision axis and angle rendering for curved structures.
-- <img src="https://api.iconify.design/lucide:music.svg?color=%23ffffff" width="16" height="16"/> **Audio Player**: Integrated player with playback bar for quick audio ID testing.
-- <img src="https://api.iconify.design/lucide:wrench.svg?color=%23ffffff" width="16" height="16"/> **Utility Suite**: Includes Terrain tools, Asset Import, Fly GUI, Dex Plus Plus, and Infinity Yield.
+- <img src="https://api.iconify.design/lucide:shopping-bag.svg?color=%23ffffff" width="16" height="16"/> **Toolbox Store**: Direct in-studio search and instant injection for Models, Decals, and Audio.
+- <img src="https://api.iconify.design/lucide:compass.svg?color=%23ffffff" width="16" height="16"/> **Archimedes Tools**: Precision axis transformation and custom angle controls for seamless curve creation.
+- <img src="https://api.iconify.design/lucide:music.svg?color=%23ffffff" width="16" height="16"/> **Audio Player**: Built-in audio player with real-time controls for rapid asset testing.
+- <img src="https://api.iconify.design/lucide:wrench.svg?color=%23ffffff" width="16" height="16"/> **Utility Suite**: Integrated developer shortcuts featuring Terrain tools, Asset Importer, Fly GUI, Dex++, and Infinity Yield.
 
 ---
 
 ## Execution
+
+Run the loader script in your execution environment:
 
 ```lua
 loadstring(game:HttpGet("[https://raw.githubusercontent.com/narsendeavor/plugin/refs/heads/main/loader.lua](https://raw.githubusercontent.com/narsendeavor/plugin/refs/heads/main/loader.lua)"))()
