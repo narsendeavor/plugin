@@ -27,5 +27,3 @@ Run the loader script in your execution environment:
 
 ```lua
 loadstring(game:HttpGet("https://raw.githubusercontent.com/narsendeavor/plugin/refs/heads/main/loader.lua"))()
-
-https://www.roblox.com/id/games/10959918411/Studio-Lite
