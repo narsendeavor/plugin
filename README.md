@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://imgbs.com/uploads/plugin-sl-e1254beb.png" alt="NARAKU • TOOLBOX Preview" width="100%"/>
+  <img src="https://imgbs.com/uploads/1000270814-2a1bff48.png" alt="NARAKU • TOOLBOX Preview" width="100%"/>
 
   # NARS'S ENDEAVOR
 
