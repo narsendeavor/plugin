@@ -6,6 +6,7 @@
   [![Roblox Studio Plugin](https://img.shields.io/badge/Roblox-Studio%20Plugin-blue?style=for-the-badge&logo=roblox)](https://www.roblox.com)
   [![Lua](https://img.shields.io/badge/Language-Lua-000080?style=for-the-badge&logo=lua)](https://www.lua.org)
   [![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](#)
+  [![WhatsApp Channel](https://img.shields.io/badge/WhatsApp-Join%20Channel-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://whatsapp.com/channel/0029VbDPKtaJuyALlMJKuC2A)
 
   An all-in-one Roblox Studio plugin and utility suite engineered to streamline development workflows, empower builders, and enhance productivity.
 </div>
@@ -69,6 +70,18 @@ The API returns search results via the `creatorStoreAssets[]` array.
 
 ---
 
+## COMMUNITY & UPDATES
+
+Stay updated with the latest news, announcements, and features by joining our official WhatsApp channel:
+
+<div align="center">
+  <a href="https://whatsapp.com/channel/0029VbDPKtaJuyALlMJKuC2A">
+    <img src="https://img.shields.io/badge/Join_WhatsApp_Channel-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Join WhatsApp Channel"/>
+  </a>
+</div>
+
+---
+
 ## MAP PREVIEW
 
 Experience the environment and test the tools directly in the interactive map environment:
@@ -90,4 +103,4 @@ Experience the environment and test the tools directly in the interactive map en
 Run the loader script in your execution environment:
 
 ```lua
-loadstring(game:HttpGet("https://raw.githubusercontent.com/narsendeavor/plugin/refs/heads/main/loader.lua)()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/narsendeavor/plugin/refs/heads/main/loader.lua"))()
