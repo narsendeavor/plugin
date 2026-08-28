@@ -27,6 +27,48 @@
 
 ---
 
+## API DOCUMENTATION
+
+### Roblox Toolbox Service API
+
+The plugin communicates with the official Roblox API endpoint to handle asset searches dynamically within the studio environment.
+
+**API Endpoint**
+
+`https://apis.roblox.com/toolbox-service/v2/assets:search`
+
+**Request Parameters**
+
+| Parameter | Description |
+| :--- | :--- |
+| `searchCategoryType` | Specifies the asset category to search |
+| `query` | Specifies the search keyword |
+
+**Supported Asset Types**
+
+- Model
+- Decal
+- Audio
+- Plugin
+
+**Category Parameter**
+
+`searchCategoryType` is used to specify the type of asset being searched.
+
+**Response**
+
+The API returns search results via the `creatorStoreAssets[]` array.
+
+**Response Fields**
+
+| Field | Description |
+| :--- | :--- |
+| `asset.name` | Name of the asset |
+| `asset.id` | Unique ID of the asset |
+| `creator.name` | Name of the asset creator |
+
+---
+
 ## MAP PREVIEW
 
 Experience the environment and test the tools directly in the interactive map environment:
