@@ -15,28 +15,29 @@
 
 ## OVERVIEW
 
-**Nars's Endeavor** is an all-in-one Roblox Studio utility suite designed to bring essential development tools into a single, convenient interface.
+**Nars's Endeavor** is an all-in-one Roblox Studio Lite utility suite that brings essential development tools into a single, convenient interface.
 
-It provides a collection of tools for building, scripting, asset management, testing, and development workflows without requiring multiple separate utilities.
+It combines building tools, scripting utilities, asset management, camera controls, icons, and development features into one streamlined workspace.
 
 ---
 
 ## FEATURES
 
-- <img src="https://api.iconify.design/lucide:shopping-bag.svg?color=%23ffffff" width="16" height="16"/> **Toolbox Store**  
-  Search and use Roblox assets directly from the studio environment, including Models, Decals, Audio, and other supported assets.
+- <img src="https://api.iconify.design/lucide:shopping-bag.svg?color=%23ffffff" width="16" height="16"/> **Toolbox Store** — Search and use Roblox assets directly from the studio environment.
 
-- <img src="https://api.iconify.design/lucide:compass.svg?color=%23ffffff" width="16" height="16"/> **Archimedes Tools**  
-  Precision geometry utilities for axis transformation, custom angles, rotations, and curve-based building workflows.
+- <img src="https://api.iconify.design/lucide:compass.svg?color=%23ffffff" width="16" height="16"/> **Archimedes Tools** — Precision geometry utilities for transformations, rotations, angles, and curve-based building.
 
-- <img src="https://api.iconify.design/lucide:music.svg?color=%23ffffff" width="16" height="16"/> **Audio Player**  
-  Built-in audio testing utility with playback controls and real-time progress tracking.
+- <img src="https://api.iconify.design/lucide:music.svg?color=%23ffffff" width="16" height="16"/> **Audio Player** — Built-in audio utility for quickly testing and controlling audio assets.
 
-- <img src="https://api.iconify.design/lucide:wrench.svg?color=%23ffffff" width="16" height="16"/> **Utility Suite**  
-  Additional development utilities including Terrain tools, Asset Importer, Fly GUI, and other productivity features.
+- <img src="https://api.iconify.design/lucide:wrench.svg?color=%23ffffff" width="16" height="16"/> **Utility Suite** — Additional development utilities including Terrain tools, Asset Importer, and other productivity tools.
 
-- <img src="https://api.iconify.design/lucide:code-2.svg?color=%23ffffff" width="16" height="16"/> **Nars Endeavor Ecode**  
-  An integrated Lua code editor designed for writing, managing, and executing scripts directly within the Roblox environment.
+- <img src="https://api.iconify.design/lucide:icons.svg?color=%23ffffff" width="16" height="16"/> **Lucide Icons** — Integrated Lucide icon resources for creating clean and consistent interfaces.
+
+- <img src="https://api.iconify.design/lucide:video.svg?color=%23ffffff" width="16" height="16"/> **Fly Camera Fokus Speed** — Free camera movement with adjustable focus and movement speed for easier scene navigation.
+
+- <img src="https://api.iconify.design/lucide:code-2.svg?color=%23ffffff" width="16" height="16"/> **Ecode** — Integrated Lua code editor and development environment for writing, managing, and executing scripts.
+
+- <img src="https://api.iconify.design/lucide:move-3d.svg?color=%23ffffff" width="16" height="16"/> **Gizmo Axis** — Interactive axis gizmos for manipulating and working with objects along the X, Y, and Z axes.
 
 ---
 
@@ -46,29 +47,11 @@ It provides a collection of tools for building, scripting, asset management, tes
   <img src="https://files.catbox.moe/4f108y.png" alt="Nars Endeavor Ecode Preview" width="90%"/>
 </div>
 
-**Nars Endeavor Ecode** is a lightweight development environment built into Nars's Endeavor.
-
-It provides a structured workspace for managing Lua scripts while keeping editing, file management, execution, and console output inside a single interface.
-
-### Ecode Features
-
-- **Explorer** — Manage workspace folders and Lua files.
-- **Code Editor** — Write and edit Lua scripts with syntax highlighting.
-- **Multi-Tab Editing** — Open and work with multiple scripts simultaneously.
-- **File Management** — Create, save, clear, and delete script files.
-- **Execute** — Run the currently selected Lua script.
-- **Copy** — Quickly copy script source.
-- **Output / Console** — View execution output and errors.
-- **Workspace System** — Organize scripts and modules in a dedicated workspace.
-- **Dark Developer UI** — Clean interface designed for comfortable scripting.
-
-Ecode is intended to provide a more organized scripting workflow while keeping commonly used development actions easily accessible.
+**Nars Endeavor Ecode** is a lightweight code development environment integrated into Nars's Endeavor, providing a dedicated workspace for scripting, file management, script execution, and console output.
 
 ---
 
 ## MAP PREVIEW
-
-Experience the environment and test the tools directly in the interactive map environment:
 
 <div align="center">
   <a href="https://www.roblox.com/id/games/10959918411/Studio-Lite">
@@ -84,13 +67,7 @@ Experience the environment and test the tools directly in the interactive map en
 
 ## COMMUNITY & UPDATES
 
-Join the official Discord server for:
-
-- Updates and announcements
-- Bug reports
-- Feature requests
-- Development discussions
-- Support and community projects
+Join the official Discord server for updates, announcements, support, bug reports, feature requests, and development discussions.
 
 <div align="center">
   <a href="https://discord.gg/kxZjV8tEN">
