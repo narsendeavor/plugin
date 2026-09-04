@@ -1,5 +1,7 @@
 <div align="center">
   <img src="https://imgbs.com/uploads/1000270814-2a1bff48.png" alt="NARAKU • TOOLBOX Preview" width="100%"/>
+  <br/>
+  <a href="https://files.catbox.moe/jok47b.mp4">▶ Watch Preview Video (MP4)</a>
 
   # NARS'S ENDEAVOR
 
@@ -45,6 +47,8 @@ It combines building tools, scripting utilities, asset management, camera contro
 
 <div align="center">
   <img src="https://files.catbox.moe/4f108y.png" alt="Nars Endeavor Ecode Preview" width="90%"/>
+  <br/>
+  <a href="https://files.catbox.moe/bzwwzr.mp4">▶ Watch Ecode Preview Video (MP4)</a>
 </div>
 
 **Nars Endeavor Ecode** is a lightweight code development environment integrated into Nars's Endeavor, providing a dedicated workspace for scripting, file management, script execution, and console output.
