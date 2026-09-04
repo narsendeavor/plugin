@@ -48,7 +48,7 @@ It combines building tools, scripting utilities, asset management, camera contro
 <div align="center">
   <img src="https://files.catbox.moe/4f108y.png" alt="Nars Endeavor Ecode Preview" width="90%"/>
   <br/>
-  <a href="https://files.catbox.moe/bzwwzr.mp4">▶ Watch Ecode Preview Video (MP4)</a>
+  <a href="">▶ Watch Ecode Preview Video (MP4)</a>
 </div>
 
 **Nars Endeavor Ecode** is a lightweight code development environment integrated into Nars's Endeavor, providing a dedicated workspace for scripting, file management, script execution, and console output.
