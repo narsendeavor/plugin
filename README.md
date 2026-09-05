@@ -74,7 +74,7 @@ It combines building tools, scripting utilities, asset management, camera contro
 Join the official Discord server for updates, announcements, support, bug reports, feature requests, and development discussions.
 
 <div align="center">
-  <a href="https://discord.gg/kxZjV8tEN">
+  <a href="https://files.catbox.moe/4o2s0n.png">
     <img src="https://img.shields.io/badge/Join_Discord_Server-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Join Discord Server"/>
   </a>
 </div>
